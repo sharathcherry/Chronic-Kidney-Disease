@@ -1,0 +1,26 @@
+id: 1 (an arbitrary unique identifier)
+age: 30 (a relatively young age)
+bp: 80 (normal blood pressure)
+sg: 1.020 (normal specific gravity)
+al: 0 (no albumin)
+su: 0 (no sugar)
+rbc: normal
+pc: normal
+pcc: notpresent
+ba: notpresent
+bgr: 100 (normal blood glucose)
+bu: 20 (normal blood urea)
+sc: 1.0 (normal serum creatinine)
+sod: 140 (normal sodium level)
+pot: 4.5 (normal potassium level)
+hemo: 15 (normal hemoglobin)
+pcv: 45 (normal packed cell volume)
+wc: 8000 (normal white blood cell count)
+rc: 5.0 (normal red blood cell count)
+htn: no
+dm: no
+cad: no
+appet: good
+pe: no
+ane: no
+classification: not ckd

@@ -1,0 +1,28 @@
+o provide values for prediction that indicate a person has Chronic Kidney Disease (CKD), we'll choose reasonable values based on typical clinical indicators for CKD. Here is an example set of values you can use:
+
+id: 1000 (any arbitrary ID)
+age: 65
+bp: 150
+sg: 1.015
+al: 3
+su: 1
+rbc: abnormal
+pc: abnormal
+pcc: present
+ba: present
+bgr: 180
+bu: 90
+sc: 4.0
+sod: 130
+pot: 5.5
+hemo: 8.0
+pcv: 30
+wc: 12000
+rc: 3.5
+htn: yes
+dm: yes
+cad: yes
+appet: poor
+pe: yes
+ane: yes
+classification: ckd (not required for prediction, just for reference)
